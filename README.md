@@ -11,7 +11,7 @@
  
  👨‍💻 I’m currently working on [WEAVERBASE CO., LTD. ](https://weaverbase.com/)<br>
  
- 👨‍🎓 Graduated from Suranaree University of Technology<br>
+ 👨‍🎓 Graduated from [Suranaree University of Technology](https://sut-website.sut.weon.website/)<br>
  
  🎖  I graduated with a Bachelor's degree in Mechatronics Engineering with First Class Honours.<br>
  
