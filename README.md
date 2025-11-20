@@ -10,7 +10,7 @@
 <div align="center">
  
  👨‍💻 I’m currently working on [WEAVERBASE CO., LTD. ](https://weaverbase.com/)<br>
- 🎖  I graduated with a Bachelor's degree in Mechatronics Engineering with First Class Honours.
+ 🎖  I graduated with a Bachelor's degree in Mechatronics Engineering with First Class Honours.<br>
  👨‍🎓 Graduated from Suranaree University of Technology
  
  </div>
