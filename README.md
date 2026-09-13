@@ -10,6 +10,8 @@
 <div align="center">
  
  👨‍💻 I’m currently working on [WEAVERBASE CO., LTD. ](https://weaverbase.com/)<br>
+
+ 👨‍💻 My resume [JIRAPAT]([https://weaverbase.com/](https://jirapat-cv.vercel.app/))<br>
  
  👨‍🎓 Graduated from [Suranaree University of Technology](https://sut-website.sut.weon.website/)<br>
  
